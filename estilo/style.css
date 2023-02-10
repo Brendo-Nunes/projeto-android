@@ -56,7 +56,6 @@ main a {
     font-weight: bold;
     color: var(--cor5);
     background-color: var(--cor1);
-    padding: 1.5px;
 }
 
 main a:hover {
