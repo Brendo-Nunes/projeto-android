@@ -42,7 +42,7 @@ main p {
     text-align: justify;
     text-indent: 30px;
     font-size: 1em;
-    line-height: 1.5em;
+    line-height: 1.7em;
 }
 
 main strong {
@@ -56,7 +56,7 @@ main a {
     font-weight: bold;
     color: var(--cor5);
     background-color: var(--cor1);
-    padding: 2px;
+    padding: 1.5px;
 }
 
 main a:hover {
